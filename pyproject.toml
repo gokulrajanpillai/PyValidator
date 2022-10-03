@@ -1,0 +1,14 @@
+[project]
+name = "pyvalidator"
+description = "pyvalidator package"
+version = "0.0.1"
+authors = [
+    { name = "Gokul Rajan", email = "gokulrajanpillai@gmail.com" }
+]
+dependencies = [
+]
+
+[project.optional-dependencies]
+dev = [
+    "tox",
+]
